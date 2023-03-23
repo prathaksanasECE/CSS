@@ -1,0 +1,31 @@
+*{
+    background-color:lightgreen;
+    color: black;
+}
+table{
+   
+    box-sizing: border-box;
+    margin: 0;
+    padding: 20px 40px;
+    width:80%;
+}
+h1{
+    color:chocolate;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 100% 100%;
+}
+td{
+ text-align:center;
+}
+header{
+    
+    align-items:center;
+}
+ul li{
+   
+    display:inline-block;
+    padding:0px 20px;
+    justify-content: flex-end;
+    border-radius: 50px;
+    border-color: black;
+}
