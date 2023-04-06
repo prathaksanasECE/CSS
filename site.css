@@ -1,0 +1,37 @@
+.flexin{
+    display:flex;
+    justify-content: center;
+}
+.card{
+    border:20px;
+    background-color: aqua;
+    border-radius: 20px;
+    padding:60px;
+    margin:30px;
+}
+button{
+    border:10px;
+    border-color: rgb(226, 161, 74);
+    background-color: orange;
+    padding:15px;
+   
+}
+header{
+    padding:50px;
+    margin-left: 20%;
+    display:inline-flexbox;
+    padding:20px;
+    margin:30px 20px;
+}
+.alignment{
+     text-indent: 50px;
+    
+}
+.fsize{
+    font-size: 35px;
+    background-color: darkseagreen;
+    color:beige;
+    text-justify: distribute-all-lines;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    -ms-flex-align: center;
+}
